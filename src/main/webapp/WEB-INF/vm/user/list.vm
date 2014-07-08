@@ -1,0 +1,5 @@
+#set($layout = "layout.vm" )
+#set($sub = "WEB-INF/vm/user/sub.vm" )
+<div style="text-align:center;border:2px red solid;background-color:#ccc;">
+    111111111111111111111111111111
+</div>

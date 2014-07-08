@@ -1,0 +1,10 @@
+<!doctype html>
+<html>
+<title>Jfinal-velocity-layout-toolbox</title>
+</head>
+我是layout页面内容
+<div class="wrap">
+    $!{screen_content}
+</div>
+</body>
+</html>

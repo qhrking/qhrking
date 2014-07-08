@@ -1,0 +1,4 @@
+<h2 style="text-align:center">This is sub.vm</h2>
+<div style="text-align:center;border:2px blue solid;background-color:#ccc;">
+    <h1>hehe,这是经过由servlet返回的velocity视图</h1>
+</div>
